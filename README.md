@@ -27,3 +27,4 @@ Storage: AWS S3 / Local disk for image storage
 
 Deployment: Docker, Nginx, GitHub Actions
 
+New
